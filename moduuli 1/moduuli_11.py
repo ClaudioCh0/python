@@ -1,0 +1,1 @@
+print("Tervetuloa opsikelemaan python-kieltä!")
